@@ -1,1 +1,1 @@
-Um modulo feito para poupar bateria de seu sistema, Enganando o sistema android para que pense que tem uma bateria menor do que a que realmente tem para que ele rode em um formato de mais economia de energia assim resultando em uma melhor duração da bateria 
+Um modulo feito para poupar bateria de seu sistema, Enganando o sistema android para que pense que tem uma bateria menor do que a que ele realmente tem para que ele rode em um formato de mais economia de energia assim resultando em uma melhor duração da bateria 
